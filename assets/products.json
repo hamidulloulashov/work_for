@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14 Pro",
+    "price": 999.99,
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg",
+    "description": "Latest Apple iPhone with advanced camera system and A16 Bionic chip",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 899.50,
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+    "description": "Samsung's flagship smartphone with S Pen and incredible camera",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M2",
+    "price": 1299.00,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBfOwW2Hcz3VOLXhFOmG0-h-M5_RuY3Ckng&s",
+    "description": "Powerful and efficient laptop with Apple M2 chip",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "image": "https://olcha.uz/image/700x700/products/2020-10-12/sony-wh-1000xm4-18030-2.jpeg",
+    "description": "Premium noise-cancelling wireless headphones",
+    "category": "Audio"
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 8",
+    "price": 429.00,
+    "image": "https://apple-market.ru/image/cache/catalog/add%20series%208/S8-StarlightOlive-GreyBlack-Nike-Sports-Band.jpg_500.webp",
+    "description": "Advanced health features and fitness tracking",
+    "category": "Wearables"
+  },
+  {
+    "id": 6,
+    "name": "iPad Pro 12.9-inch",
+    "price": 1099.00,
+    "image": "https://maxcom.uz/storage/product/C6MUE1etF8AwiqO1NEvYmwOGFqdGl5Ftmc0dHRkm.png",
+    "description": "Professional tablet with M2 chip and Liquid Retina display",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Max 270",
+    "price": 159.99,
+    "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/eehabecsfly0wy1pxxve/NIKE+AIR+MAX+270+%28GS%29.png",
+    "description": "Comfortable running shoes with Air Max technology",
+    "category": "Fashion"
+  },
+  {
+    "id": 8,
+    "name": "Canon EOS R5 Camera",
+    "price": 3899.00,
+    "image": "https://cdn.media.amplience.net/i/canon/eos-r5_martin_bissig_lifestyle_05_c629aad3c2154f34b3d7d7ba5a509196?$70-30-header-4by3-dt-jpg$",
+    "description": "Professional mirrorless camera with 8K video recording",
+    "category": "Photography"
+  },
+  {
+    "id": 9,
+    "name": "Xiaomi Redmi Note 12",
+    "price": 249.00,
+    "image": "https://images-cdn.ubuy.co.in/6490e19e795b9a77f4106e09-xiaomi-redmi-note-12-120hz-amoled.jpg",
+    "description": "Affordable smartphone with excellent value and performance",
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "name": "AirPods Pro (2nd generation)",
+    "price": 249.99,
+    "image": "https://mdriveasia.com/cdn/shop/files/AirPods_Pro_2_Sep24_PDP_Image_Position_7__ROSA-EN_1024x1024.jpg?v=1731490478",
+    "description": "Active noise cancellation and spatial audio",
+    "category": "Audio"
+  }
+]
