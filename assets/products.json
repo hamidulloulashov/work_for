@@ -19,7 +19,7 @@
     "id": 3,
     "name": "MacBook Air M2",
     "price": 1299.00,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKBfOwW2Hcz3VOLXhFOmG0-h-M5_RuY3Ckng&s",
+    "image": "https://notebookoff.uz/upload/resize_cache/iblock/22d/1200_1200_140cd750bba9870f18aada2478b24840a/iuaco2qbhq05vzou0ar25wdigi9zj004.jpg",
     "description": "Powerful and efficient laptop with Apple M2 chip",
     "category": "Electronics"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Sony WH-1000XM4 Headphones",
     "price": 349.99,
-    "image": "https://olcha.uz/image/700x700/products/2020-10-12/sony-wh-1000xm4-18030-2.jpeg",
+    "image": "https://d1ncau8tqf99kp.cloudfront.net/converted/74739_original_local_1200x1050_v3_converted.webp",
     "description": "Premium noise-cancelling wireless headphones",
     "category": "Audio"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Nike Air Max 270",
     "price": 159.99,
-    "image": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/eehabecsfly0wy1pxxve/NIKE+AIR+MAX+270+%28GS%29.png",
+    "image": "https://www.juniorcouture.com/dw/image/v2/BGHV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa2f4fdd4/images/NIKE-NK943345/NIKE-NK943345-103-1.jpg?sw=1500&sh=1500",
     "description": "Comfortable running shoes with Air Max technology",
     "category": "Fashion"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Canon EOS R5 Camera",
     "price": 3899.00,
-    "image": "https://cdn.media.amplience.net/i/canon/eos-r5_martin_bissig_lifestyle_05_c629aad3c2154f34b3d7d7ba5a509196?$70-30-header-4by3-dt-jpg$",
+    "image": "https://cdn.media.amplience.net/i/canon/eos-r5_front_rf24-105mmf4lisusm_32c26ad194234d42b3cd9e582a21c99b",
     "description": "Professional mirrorless camera with 8K video recording",
     "category": "Photography"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "AirPods Pro (2nd generation)",
     "price": 249.99,
-    "image": "https://mdriveasia.com/cdn/shop/files/AirPods_Pro_2_Sep24_PDP_Image_Position_7__ROSA-EN_1024x1024.jpg?v=1731490478",
+    "image": "https://m.media-amazon.com/images/I/51NRGHU2NoL._UF894,1000_QL80_.jpg",
     "description": "Active noise cancellation and spatial audio",
     "category": "Audio"
   }

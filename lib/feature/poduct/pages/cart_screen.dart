@@ -7,7 +7,7 @@ import 'package:work_for/feature/poduct/managers/card_bloc.dart' show CartBloc;
 import 'package:work_for/feature/poduct/managers/card_event.dart' show UpdateQuantityEvent, RemoveProductEvent, CheckoutEvent;
 import 'package:work_for/feature/poduct/managers/card_state.dart' show CartState, CartLoaded, CartOperationSuccess, CartError, CheckoutSuccess, CartLoading;
 import 'package:work_for/feature/poduct/widgets/card_helpr.dart' show CartHelpers;
-import 'package:work_for/feature/poduct/widgets/card_item_tile.dart' show CartItemWidget;
+import 'package:work_for/feature/poduct/widgets/card_item_widget.dart' show CartItemWidget;
 class CartScreen extends StatelessWidget {
   const CartScreen({super.key});
 
